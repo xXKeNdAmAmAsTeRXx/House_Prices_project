@@ -8,7 +8,7 @@ regression tasks.
 [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
 
 
-## Contest
+## Content
 
 ### Data Processing
 The data was processed during in:
